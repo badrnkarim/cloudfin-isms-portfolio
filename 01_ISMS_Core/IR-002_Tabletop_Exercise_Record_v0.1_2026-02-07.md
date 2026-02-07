@@ -14,5 +14,5 @@
 
 ## Outputs
 - Action: confirm quarterly access reviews (AR-002)  
-- Action: update training record (TRN-001 planned)
+- Action: training record completed (TRN-001 + EV-015)
 

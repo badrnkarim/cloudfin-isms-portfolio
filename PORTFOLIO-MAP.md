@@ -1,29 +1,53 @@
-# Portfolio Map — ISO 27001 Traceability (Where to Find Everything)
+# Portfolio Map — ISO 27001 → Files → Evidence
 
-## ISO 27001 Clauses (baseline)
-- **Clause 4 (Context & Scope):**  
-  - ISMS-001 (Scope) — `01_ISMS_Core/ISMS-001_Scope...`
-- **Clause 5 (Leadership & Policy):**  
-  - ISMS-002 (Policy & roles) — `01_ISMS_Core/ISMS-002_ISMS_Policy...`
-- **Clause 6 (Planning):**  
-  - ISMS-003 (Risk method) — `01_ISMS_Core/ISMS-003_Risk_Method...`  
-  - ISMS-004 (Risk Register) — `02_Registers/ISMS-004_Risk_Register...`  
-  - ISMS-005 (SoA) — `02_Registers/ISMS-005_SoA...`  
-  - ISMS-006 (Objectives) — `01_ISMS_Core/ISMS-006_Objectives...` + **EV-005**
-- **Clause 7.5 (Documented information):**  
-  - ISMS-008 Document Control Procedure + Document Register — **EV-010**
-- **Clause 9.2 (Internal audit):**  
-  - AUD-001/002/003/004/005 — `03_Audit_Pack/`  
-- **Clause 9.3 (Management review):**  
-  - ISMS-007 template + MR-001 record — `01_ISMS_Core/` + **EV-007**
-- **Clause 10.1 (Corrective action):**  
-  - AUD-006 tracker + AUD-007 procedure — `03_Audit_Pack/` + **EV-006**
+Use this map to navigate the ISMS portfolio quickly.
 
-## Annex A controls shown with evidence
-- **A.8.32 Change management:** EV-002, EV-004 + SoA entry  
-- **A.8.8 Technical vulnerabilities:** EV-003 + VULN-001 + VULN-LOG-001 + EV-008  
-- **A.8.4 Access to source code:** AR-002 + EV-009
+## Clause 4 — Context
+- **ISMS Scope:** `01_ISMS_Core/ISMS-001_ISMS_Scope_v0.1_2026-02-07.md`
 
-## Evidence index
-- **EV-INDEX:** `04_Evidence/EV-INDEX_Evidence_Index...` (master list)
+## Clause 5 — Leadership
+- **ISMS Policy:** `01_ISMS_Core/ISMS-002_ISMS_Policy_v0.1_2026-02-07.md`
 
+## Clause 6 — Planning
+- **Risk Method:** `01_ISMS_Core/ISMS-003_Risk_Methodology_v0.1_2026-02-07.md`
+- **Risk Register:** `02_Registers/ISMS-004_Risk_Register_v0.1_2026-02-07.csv`
+- **SoA:** `02_Registers/ISMS-005_SoA_v0.1_2026-02-07.csv`
+- **Objectives (6.2):** `01_ISMS_Core/ISMS-006_Objectives_and_Metrics_v0.1_2026-02-07.md` + **EV-005**
+
+## Clause 7 — Support
+- **Documented information control (7.5):**
+  - `01_ISMS_Core/ISMS-008_Document_Control_Procedure_v0.1_2026-02-07.md` + **EV-010**
+  - `02_Registers/ISMS-009_Document_Register_v0.1_2026-02-07.csv`
+  - Evidence index: `04_Evidence/EV-INDEX_Evidence_Index_v0.1_2026-02-07.csv`
+- **Awareness/training (7.2/7.3):**
+  - `01_ISMS_Core/TRN-001_Security_Awareness_Training_Record_v0.1_2026-02-07.md` + **EV-015**
+
+## Clause 8 — Operation (selected operational records)
+- **Incident response planning & tabletop:**
+  - `01_ISMS_Core/IR-001_Incident_Response_Plan_v0.1_2026-02-07.md`
+  - `01_ISMS_Core/IR-002_Tabletop_Exercise_Record_v0.1_2026-02-07.md`
+  - Evidence: **EV-011**
+- **Backup/restore test:**
+  - `01_ISMS_Core/BC-001_Backup_Restore_Test_Record_v0.1_2026-02-07.md`
+  - Evidence: **EV-012**
+- **Supplier due diligence:**
+  - `02_Registers/SUP-001_Supplier_Register_v0.1_2026-02-07.csv`
+  - `01_ISMS_Core/SUP-003_Supplier_Assessment_GitHub_v0.1_2026-02-07.md`
+  - Evidence: **EV-013**
+- **Vulnerability management:**
+  - `01_ISMS_Core/VULN-001_Vulnerability_Management_Procedure_v0.1_2026-02-07.md`
+  - `02_Registers/VULN-LOG-001_Vulnerability_Log_v0.1_2026-02-07.csv`
+  - Evidence: **EV-003**, **EV-008**
+
+## Clause 9 — Performance evaluation
+- **Internal audit program:** `03_Audit_Pack/AUD-001_Audit_Program_v0.1_2026-02-07.md`
+- **Audit plan:** `03_Audit_Pack/AUD-002_Audit_Plan_v0.1_2026-02-07.md`
+- **Audit checklist:** `03_Audit_Pack/AUD-003_Audit_Checklist_v0.1_2026-02-07.csv`
+- **Evidence log:** `03_Audit_Pack/AUD-004_Evidence_Log_v0.1_2026-02-07.csv`
+- **Audit findings:** `03_Audit_Pack/AUD-005_Audit_Report_Findings_v0.1_2026-02-07.md`
+- **Management review record:** `01_ISMS_Core/MR-001_Management_Review_Record_v0.1_2026-02-07.md` + **EV-007**
+
+## Clause 10 — Improvement
+- **CAPA procedure:** `03_Audit_Pack/AUD-007_CAPA_Procedure_v0.1_2026-02-07.md` + **EV-006**
+- **CAPA tracker:** `03_Audit_Pack/AUD-006_CAPA_Tracker_v0.1_2026-02-07.csv`
+- **Follow-up verification:** `03_Audit_Pack/AUD-008_Followup_Audit_Report_v0.1_2026-02-07.md` + **EV-014**

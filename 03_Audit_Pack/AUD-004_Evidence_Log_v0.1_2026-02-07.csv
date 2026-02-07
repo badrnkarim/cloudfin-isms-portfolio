@@ -1,5 +1,16 @@
-Evidence ID,Evidence Title,Source,Date Captured,Owner,File Name,Storage Location,Related Requirement,Reviewed By,Review Result (Accept/Clarify/Reject),Review Notes
-EV-001,GitHub repository created and portfolio structure tracked,GitHub,2026-02-07,Badr Karim,EV-001_GitHub_Repo_Created_2026-02-07.png,04_Evidence/,ISO 27001 Clause 7.5,Badr Karim,,
-EV-002,Branch protection enforced on main (PR + approval required),GitHub,2026-02-07,Badr Karim,EV-002_GitHub_Branch_Protection_ENFORCED_2026-02-07.png,04_Evidence/,Annex A A.8.32,Badr Karim,,
-EV-003,Dependabot alerts/security updates enabled,GitHub,2026-02-07,Badr Karim,EV-003_GitHub_Dependabot_Enabled_2026-02-07.png,04_Evidence/,Annex A A.8.8,Badr Karim,,
-EV-004,Pull request workflow evidence (review/approval captured),GitHub,2026-02-07,Badr Karim,EV-004_GitHub_PR_Approval_2026-02-07.png,04_Evidence/,Annex A A.8.32; A.8.4,Badr Karim,,
+Evidence ID,Title,Location/File,Reviewed By,Review Date,Notes
+EV-001,GitHub repository created and portfolio structure tracked,04_Evidence/EV-001_GitHub_Repo_Created_2026-02-07.png,Badr Karim,2026-02-07,Repo used as controlled store for ISMS docs and records
+EV-002,Branch protection enforced on main (PR + approval required),04_Evidence/EV-002_GitHub_Branch_Protection_ENFORCED_2026-02-07.png,Badr Karim,2026-02-07,Protected branch rule enforced
+EV-003,Dependabot alerts/security updates enabled,04_Evidence/EV-003_GitHub_Dependabot_Enabled_2026-02-07.png,Badr Karim,2026-02-07,Automated dependency vulnerability alerts enabled
+EV-004,Pull request workflow evidence (review/approval captured),04_Evidence/EV-004_GitHub_PR_Approval_2026-02-07.png,Badr Karim,2026-02-07,PR created and review evidence captured
+EV-005,ISMS objectives and metrics documented,04_Evidence/EV-005_ISMS_Objectives_File_2026-02-07.png,Badr Karim,2026-02-07,Objectives defined with metrics/targets/frequency
+EV-006,CAPA procedure documented (Clause 10.1),04_Evidence/EV-006_CAPA_Procedure_2026-02-07.png,Badr Karim,2026-02-07,Procedure defines CAPA workflow and records
+EV-007,Management review record documented,04_Evidence/EV-007_Management_Review_Record_2026-02-07.png,Badr Karim,2026-02-07,MR-001 record captured with decisions and action items
+EV-008,Vulnerability management procedure and log documented,04_Evidence/EV-008_Vulnerability_Management_2026-02-07.png,Badr Karim,2026-02-07,Procedure + tracking log established with SLA targets
+EV-009,Repository access review record completed,04_Evidence/EV-009_Repo_Access_Review_2026-02-07.png,Badr Karim,2026-02-07,AR-002 shows periodic access review record
+EV-010,Document control and document register evidence,04_Evidence/EV-010_Document_Control_and_Register_2026-02-07.png,Badr Karim,2026-02-07,ISMS-008 and ISMS-009 shown in GitHub
+EV-011,Incident response plan and tabletop exercise evidence,04_Evidence/EV-011_IR_Plan_and_Tabletop_2026-02-07.png,Badr Karim,2026-02-07,IR-001 and IR-002 shown in GitHub
+EV-012,Backup and restore test evidence,04_Evidence/EV-012_Backup_Restore_Test_2026-02-07.png,Badr Karim,2026-02-07,Fresh clone and verification output captured
+EV-013,Supplier register and assessment evidence,04_Evidence/EV-013_Supplier_Register_and_Assessment_2026-02-07.png,Badr Karim,2026-02-07,Supplier register + assessment shown
+EV-014,Follow-up audit CAPA verification evidence,04_Evidence/EV-014_Followup_Audit_CAPA_Verification_2026-02-07.png,Badr Karim,2026-02-07,AUD-008 follow-up verification displayed
+EV-015,Security awareness training record documented,04_Evidence/EV-015_Security_Awareness_Training_Record_2026-02-07.png,Badr Karim,2026-02-07,TRN-001 training record captured as evidence of awareness/training for remote-first staff

@@ -20,7 +20,7 @@ Define measurable information security objectives and how CloudFin Analytics wil
 | OBJ-003 | Ensure privileged/source access is reviewed | Completion of repository access review | 100% per quarter | Quarterly | Platform/DevOps Lead | AR-002 + EV-009 |
 | OBJ-004 | Improve recovery readiness | Backup restore test completion | 1 successful test / quarter | Quarterly | Platform/DevOps Lead | BC-001 + EV-012 |
 | OBJ-005 | Improve incident response readiness | Time to triage security event | ≤ 1 business day | Quarterly | Security/GRC (Badr) | IR-001 + IR-002 + EV-011 |
-| OBJ-006 | Increase security awareness in remote-first environment | Training completion rate | 100% | Quarterly | Security/GRC (Badr) | Training record (future EV) |
+| OBJ-006 | Increase security awareness in remote-first environment | Training completion rate | 100% | Quarterly | Security/GRC (Badr) | TRN-001 + EV-015 |
 
 ## 3. Review
 Objectives are reviewed during Management Review and updated when risk profile, systems, or business requirements change.

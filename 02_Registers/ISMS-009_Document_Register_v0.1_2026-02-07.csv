@@ -1,14 +1,30 @@
-Doc ID,Title,Owner,Current Version,Status,Last Updated,Location,Approver
-ISMS-001,ISMS Scope,Badr Karim,v0.1,Draft,2026-02-07,01_ISMS_Core/ISMS-001_Scope_v0.1_2026-02-07.md,Management (Simulated)
-ISMS-002,ISMS Policy,Badr Karim,v0.1,Draft,2026-02-07,01_ISMS_Core/ISMS-002_ISMS_Policy_v0.1_2026-02-07.md,Management (Simulated)
-ISMS-003,Risk Methodology,Badr Karim,v0.1,Draft,2026-02-07,01_ISMS_Core/ISMS-003_Risk_Method_v0.1_2026-02-07.md,Management (Simulated)
-ISMS-004,Risk Register,Badr Karim,v0.1,Draft,2026-02-07,02_Registers/ISMS-004_Risk_Register_v0.1_2026-02-07.csv,Management (Simulated)
-ISMS-005,Statement of Applicability,Badr Karim,v0.1,Draft,2026-02-07,02_Registers/ISMS-005_SoA_v0.1_2026-02-07.csv,Management (Simulated)
-ISMS-006,Objectives & Metrics,Badr Karim,v0.1,Draft,2026-02-07,01_ISMS_Core/ISMS-006_Objectives_and_Metrics_v0.1_2026-02-07.md,Management (Simulated)
-ISMS-007,Management Review Template,Badr Karim,v0.1,Draft,2026-02-07,01_ISMS_Core/ISMS-007_Management_Review_Template_v0.1_2026-02-07.md,Management (Simulated)
-ISMS-008,Document Control Procedure,Badr Karim,v0.1,Draft,2026-02-07,01_ISMS_Core/ISMS-008_Document_Control_Procedure_v0.1_2026-02-07.md,Management (Simulated)
-AUD-001,Audit Program,Badr Karim,v0.1,Draft,2026-02-07,03_Audit_Pack/AUD-001_Audit_Program_v0.1_2026-02-07.md,Management (Simulated)
-AUD-002,Audit Plan,Badr Karim,v0.1,Draft,2026-02-07,03_Audit_Pack/AUD-002_Audit_Plan_v0.1_2026-02-07.md,Management (Simulated)
-AUD-005,Audit Report Findings,Badr Karim,v0.1,Draft,2026-02-07,03_Audit_Pack/AUD-005_Audit_Report_Findings_v0.1_2026-02-07.md,Management (Simulated)
-AUD-006,CAPA Tracker,Badr Karim,v0.1,Draft,2026-02-07,03_Audit_Pack/AUD-006_CAPA_Tracker_v0.1_2026-02-07.csv,Management (Simulated)
-AUD-007,CAPA Procedure,Badr Karim,v0.1,Draft,2026-02-07,03_Audit_Pack/AUD-007_CAPA_Procedure_v0.1_2026-02-07.md,Management (Simulated)
+Doc ID,Title,Type,Owner,Version,Status,Date,Location,Notes
+ISMS-001,ISMS Scope,Core Doc,Security/GRC (Badr Karim),v0.1,Final (Portfolio),2026-02-07,01_ISMS_Core/ISMS-001_ISMS_Scope_v0.1_2026-02-07.md,Defines ISMS scope and boundaries
+ISMS-002,Information Security Policy,Policy,Security/GRC (Badr Karim),v0.1,Final (Portfolio),2026-02-07,01_ISMS_Core/ISMS-002_ISMS_Policy_v0.1_2026-02-07.md,Top-level policy commitment
+ISMS-003,Risk Assessment Methodology,Procedure,Security/GRC (Badr Karim),v0.1,Final (Portfolio),2026-02-07,01_ISMS_Core/ISMS-003_Risk_Methodology_v0.1_2026-02-07.md,Risk scoring and treatment approach
+ISMS-004,Risk Register,Register,Security/GRC (Badr Karim),v0.1,Final (Portfolio),2026-02-07,02_Registers/ISMS-004_Risk_Register_v0.1_2026-02-07.csv,Risk inventory and treatment tracking
+ISMS-005,Statement of Applicability (SoA),Register,Security/GRC (Badr Karim),v0.1,Final (Portfolio),2026-02-07,02_Registers/ISMS-005_SoA_v0.1_2026-02-07.csv,Annex A applicability + implementation + evidence
+ISMS-006,Objectives and Metrics,Core Doc,Security/GRC (Badr Karim),v0.1,Final (Portfolio),2026-02-07,01_ISMS_Core/ISMS-006_Objectives_and_Metrics_v0.1_2026-02-07.md,Clause 6.2 objectives and measures
+ISMS-007,Management Review Template,Template,Security/GRC (Badr Karim),v0.1,Final (Portfolio),2026-02-07,01_ISMS_Core/ISMS-007_Management_Review_Template_v0.1_2026-02-07.md,Clause 9.3 template
+MR-001,Management Review Record,Record,Management (Simulated),v0.1,Final (Portfolio),2026-02-07,01_ISMS_Core/MR-001_Management_Review_Record_v0.1_2026-02-07.md,Clause 9.3 record
+ISMS-008,Document Control Procedure,Procedure,Security/GRC (Badr Karim),v0.1,Final (Portfolio),2026-02-07,01_ISMS_Core/ISMS-008_Document_Control_Procedure_v0.1_2026-02-07.md,Clause 7.5 documented information control
+ISMS-009,Document Register,Register,Security/GRC (Badr Karim),v0.1,Final (Portfolio),2026-02-07,02_Registers/ISMS-009_Document_Register_v0.1_2026-02-07.csv,Master list of ISMS documents/records
+EV-INDEX,Evidence Index,Register,Security/GRC (Badr Karim),v0.1,Final (Portfolio),2026-02-07,04_Evidence/EV-INDEX_Evidence_Index_v0.1_2026-02-07.csv,Maps EV IDs to files and requirements
+TRN-001,Security Awareness Training Record,Record,Security/GRC (Badr Karim),v0.1,Final (Portfolio),2026-02-07,01_ISMS_Core/TRN-001_Security_Awareness_Training_Record_v0.1_2026-02-07.md,Training evidence for A.6.3
+IR-001,Incident Response Plan,Procedure,Security/GRC (Badr Karim),v0.1,Final (Portfolio),2026-02-07,01_ISMS_Core/IR-001_Incident_Response_Plan_v0.1_2026-02-07.md,IR planning and roles
+IR-002,Incident Response Tabletop Record,Record,Security/GRC (Badr Karim),v0.1,Final (Portfolio),2026-02-07,01_ISMS_Core/IR-002_Tabletop_Exercise_Record_v0.1_2026-02-07.md,Tabletop exercise record
+BC-001,Backup and Restore Test Record,Record,Platform/DevOps Lead (Simulated),v0.1,Final (Portfolio),2026-02-07,01_ISMS_Core/BC-001_Backup_Restore_Test_Record_v0.1_2026-02-07.md,Restore test evidence for A.8.13
+VULN-001,Vulnerability Management Procedure,Procedure,Engineering Lead (Simulated),v0.1,Final (Portfolio),2026-02-07,01_ISMS_Core/VULN-001_Vulnerability_Management_Procedure_v0.1_2026-02-07.md,Workflow + SLA for A.8.8
+VULN-LOG-001,Vulnerability Log,Register,Engineering Lead (Simulated),v0.1,Final (Portfolio),2026-02-07,02_Registers/VULN-LOG-001_Vulnerability_Log_v0.1_2026-02-07.csv,Vulnerability tracking register
+AR-002,Repository Access Review Record,Record,Platform/DevOps Lead (Simulated),v0.1,Final (Portfolio),2026-02-07,01_ISMS_Core/AR-002_Repo_Access_Review_Record_v0.1_2026-02-07.md,Access review evidence for A.8.4
+SUP-001,Supplier Register,Register,Security/GRC (Badr Karim),v0.1,Final (Portfolio),2026-02-07,02_Registers/SUP-001_Supplier_Register_v0.1_2026-02-07.csv,Supplier inventory
+SUP-002,Supplier Assessment Template,Template,Security/GRC (Badr Karim),v0.1,Final (Portfolio),2026-02-07,01_ISMS_Core/SUP-002_Supplier_Assessment_Template_v0.1_2026-02-07.md,Due diligence template
+SUP-003,Supplier Assessment (GitHub),Record,Security/GRC (Badr Karim),v0.1,Final (Portfolio),2026-02-07,01_ISMS_Core/SUP-003_Supplier_Assessment_GitHub_v0.1_2026-02-07.md,Example supplier assessment
+AUD-001,Internal Audit Program,Audit Doc,Badr Karim, v0.1,Final (Portfolio),2026-02-07,03_Audit_Pack/AUD-001_Audit_Program_v0.1_2026-02-07.md,Audit schedule and approach
+AUD-002,Internal Audit Plan,Audit Doc,Badr Karim, v0.1,Final (Portfolio),2026-02-07,03_Audit_Pack/AUD-002_Audit_Plan_v0.1_2026-02-07.md,Baseline audit plan
+AUD-003,Audit Checklist,Audit Record,Badr Karim, v0.1,Final (Portfolio),2026-02-07,03_Audit_Pack/AUD-003_Audit_Checklist_v0.1_2026-02-07.csv,Checklist used during audit
+AUD-004,Evidence Log,Audit Record,Badr Karim, v0.1,Final (Portfolio),2026-02-07,03_Audit_Pack/AUD-004_Evidence_Log_v0.1_2026-02-07.csv,Evidence reviewed during audit
+AUD-005,Audit Findings Report,Audit Doc,Badr Karim, v0.1,Final (Portfolio),2026-02-07,03_Audit_Pack/AUD-005_Audit_Report_Findings_v0.1_2026-02-07.md,Findings + gaps + classification
+AUD-006,CAPA Tracker,Audit Record,Badr Karim, v0.1,Final (Portfolio),2026-02-07,03_Audit_Pack/AUD-006_CAPA_Tracker_v0.1_2026-02-07.csv,CAPA tracking to closure
+AUD-007,CAPA Procedure,Procedure,Badr Karim, v0.1,Final (Portfolio),2026-02-07,03_Audit_Pack/AUD-007_CAPA_Procedure_v0.1_2026-02-07.md,Clause 10.1 corrective action process
+AUD-008,Follow-up Audit Report,Audit Doc,Badr Karim, v0.1,Final (Portfolio),2026-02-07,03_Audit_Pack/AUD-008_Followup_Audit_Report_v0.1_2026-02-07.md,Verification of CAPA closure

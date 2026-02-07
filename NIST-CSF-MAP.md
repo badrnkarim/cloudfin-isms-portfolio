@@ -23,5 +23,5 @@ This mapping is a high-level alignment of this portfolio’s ISO 27001 artifacts
 - CAPA workflow (AUD-007, EV-006) → Response through corrective actions
 
 ## RECOVER
-- (Planned) Backup/restore test record → Recovery assurance (future evidence)
+- Backup/restore test record (BC-001) + EV-012 → Recovery assurance
 
