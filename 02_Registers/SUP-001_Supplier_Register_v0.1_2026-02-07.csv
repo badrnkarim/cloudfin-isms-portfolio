@@ -1,0 +1,2 @@
+Supplier ID,Supplier,Service,Data Access Level,Risk Level,Due Diligence Status,Owner,Notes
+SUP-001,GitHub,Source control & CI/CD metadata,Medium,Medium,Assessed,Security/GRC (Badr),Branch protection + Dependabot used as controls evidence

@@ -1,5 +1,15 @@
 Evidence ID,Evidence Title,Source,Date Captured,Owner,Linked File Name,Related ISO Requirement (Clause/Annex A),Notes
-EV-001,,,,,,, 
-EV-002,,,,,,, 
-EV-003,,,,,,, 
-EV-004,,,,,,, 
+EV-001,GitHub repository created and portfolio structure tracked,GitHub,2026-02-07,Badr Karim,EV-001_GitHub_Repo_Created_2026-02-07.png,ISO 27001 Clause 7.5 (Documented information),Repo used as controlled store for ISMS docs and records
+EV-002,Branch protection enforced on main (PR + approval required),GitHub,2026-02-07,Badr Karim,EV-002_GitHub_Branch_Protection_ENFORCED_2026-02-07.png,Annex A 8.32 (Change management),Protected branch rule enforced
+EV-003,Dependabot alerts/security updates enabled,GitHub,2026-02-07,Badr Karim,EV-003_GitHub_Dependabot_Enabled_2026-02-07.png,Annex A 8.8 (Management of technical vulnerabilities),Automated dependency vulnerability alerts enabled
+EV-004,Pull request workflow evidence (review/approval captured),GitHub,2026-02-07,Badr Karim,EV-004_GitHub_PR_Approval_2026-02-07.png,Annex A 8.32 (Change management),PR created and review evidence captured
+EV-005,ISMS objectives and metrics documented,GitHub,2026-02-07,Badr Karim,EV-005_ISMS_Objectives_File_2026-02-07.png,ISO 27001 Clause 6.2 (Information security objectives),Objectives defined with metrics/targets/frequency
+EV-006,CAPA procedure documented (Clause 10.1),GitHub,2026-02-07,Badr Karim,EV-006_CAPA_Procedure_2026-02-07.png,ISO 27001 Clause 10.1 (Nonconformity and corrective action),Procedure defines CAPA workflow and records
+EV-007,Management review record documented,GitHub,2026-02-07,Badr Karim,EV-007_Management_Review_Record_2026-02-07.png,ISO 27001 Clause 9.3 (Management review),MR-001 record captured with decisions and action items
+EV-008,Vulnerability management procedure and log documented,GitHub,2026-02-07,Badr Karim,EV-008_Vulnerability_Management_2026-02-07.png,Annex A 8.8 (Management of technical vulnerabilities),Procedure + tracking log established with SLA targets
+EV-009,Repository access review record completed,GitHub,2026-02-07,Badr Karim,EV-009_Repo_Access_Review_2026-02-07.png,Annex A 8.4 (Access to source code),AR-002 shows periodic access review record
+EV-010,Document control and document register evidence,GitHub,2026-02-07,Badr Karim,EV-010_Document_Control_and_Register_2026-02-07.png,ISO 27001 Clause 7.5 (Documented information),ISMS-008 and ISMS-009 shown in GitHub
+EV-011,Incident response plan and tabletop exercise evidence,GitHub,2026-02-07,Badr Karim,EV-011_IR_Plan_and_Tabletop_2026-02-07.png,Incident management readiness (ISMS process),IR-001 and IR-002 shown in GitHub
+EV-012,Backup and restore test evidence,Terminal,2026-02-07,Badr Karim,EV-012_Backup_Restore_Test_2026-02-07.png,Availability / recoverability evidence,Fresh clone and verification output captured
+EV-013,Supplier register and assessment evidence,GitHub,2026-02-07,Badr Karim,EV-013_Supplier_Register_and_Assessment_2026-02-07.png,Supplier security (relationships),Supplier register + assessment shown
+EV-014,Follow-up audit CAPA verification evidence,GitHub,2026-02-07,Badr Karim,EV-014_Followup_Audit_CAPA_Verification_2026-02-07.png,ISO 27001 Clause 9.2/10.1 (audit + CAPA verification),AUD-008 follow-up verification displayed
