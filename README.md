@@ -11,3 +11,4 @@ This repository contains a structured, evidence-based internal ISMS / assurance 
 
 ## Evidence Rule
 Every SoA control and audit finding must reference an Evidence ID (EV-###) listed in the Evidence Index.
+- Documents follow ID/version/date naming.
