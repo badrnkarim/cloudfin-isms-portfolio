@@ -1,0 +1,5 @@
+Evidence ID,Evidence Title,Source,Date Captured,Owner,File Name,Storage Location,Related Requirement,Reviewed By,Review Result (Accept/Clarify/Reject),Review Notes
+EV-001,GitHub repository created and portfolio structure tracked,GitHub,2026-02-07,Badr Karim,EV-001_GitHub_Repo_Created_2026-02-07.png,04_Evidence/,ISO 27001 Clause 7.5,Badr Karim,,
+EV-002,Branch protection enforced on main (PR + approval required),GitHub,2026-02-07,Badr Karim,EV-002_GitHub_Branch_Protection_ENFORCED_2026-02-07.png,04_Evidence/,Annex A A.8.32,Badr Karim,,
+EV-003,Dependabot alerts/security updates enabled,GitHub,2026-02-07,Badr Karim,EV-003_GitHub_Dependabot_Enabled_2026-02-07.png,04_Evidence/,Annex A A.8.8,Badr Karim,,
+EV-004,Pull request workflow evidence (review/approval captured),GitHub,2026-02-07,Badr Karim,EV-004_GitHub_PR_Approval_2026-02-07.png,04_Evidence/,Annex A A.8.32; A.8.4,Badr Karim,,

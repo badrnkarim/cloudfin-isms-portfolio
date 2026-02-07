@@ -1,0 +1,21 @@
+Check ID,Requirement Reference,Audit Question,Evidence Expected,Evidence Observed (EV-### / Doc IDs),Result (Conform/Minor NC/Major NC/OFI),Notes
+CL-001,ISO 27001 Clause 4.1,Has CloudFin determined internal/external issues relevant to the ISMS?,Context summary documented,ISMS-001,,
+CL-002,ISO 27001 Clause 4.2,Are interested parties and relevant requirements identified?,Interested parties listed,ISMS-001,,
+CL-003,ISO 27001 Clause 4.3,Is the ISMS scope clearly defined and maintained?,Scope statement with in/out boundaries,ISMS-001,,
+CL-004,ISO 27001 Clause 4.4,Is an ISMS established and maintained with documented information?,Core ISMS documents and registers,ISMS-001; ISMS-002; ISMS-003; ISMS-004; ISMS-005,,
+CL-005,ISO 27001 Clause 5.1,Is leadership commitment reflected (direction, support, resources)?,Policy assigns roles and management oversight,ISMS-002,,
+CL-006,ISO 27001 Clause 5.2,Is an information security policy established, communicated, and available?,Approved policy document,ISMS-002,,
+CL-007,ISO 27001 Clause 5.3,Are ISMS responsibilities and authorities assigned?,Roles/responsibilities documented,ISMS-002,,
+CL-008,ISO 27001 Clause 6.1.1,Are risks/opportunities addressed in planning?,Risk approach described,ISMS-003,,
+CL-009,ISO 27001 Clause 6.1.2,Is a consistent risk assessment process defined?,Methodology includes scales and scoring,ISMS-003,,
+CL-010,ISO 27001 Clause 6.1.3,Are risk treatment plans and controls defined/traceable?,Risk register maps to SoA controls,ISMS-004; ISMS-005,,
+CL-011,ISO 27001 Clause 6.2,Are information security objectives defined and planned?,Objectives defined with measures,Not yet documented,OFI,Create ISMS objectives (ISMS-006) next
+CL-012,ISO 27001 Clause 7.5,Is documented information controlled (identification, versioning, storage)?,Document IDs, version/date, controlled repository,EV-001,,
+CL-013,ISO 27001 Clause 8.1,Are operational controls implemented as planned?,Declared control statuses match evidence,ISMS-005; EV-002; EV-003; EV-004,,
+CL-014,Annex A A.8.32 (Change management),Are changes controlled through PR workflow and protected main?,Branch protection + PR review evidence,EV-002; EV-004,,
+CL-015,Annex A A.8.8 (Tech vulnerabilities),Is a vulnerability identification mechanism implemented?,Dependabot enabled + tracking approach,EV-003,,
+CL-016,Annex A A.8.4 (Access to source code),Is access to source code restricted and changes reviewed?,Repo controls + PR workflow,EV-002; EV-004,,
+CL-017,ISO 27001 Clause 9.2,Is an internal audit program and plan defined?,Audit program + audit plan exist,AUD-001; AUD-002,,
+CL-018,ISO 27001 Clause 9.3,Is management review planned (inputs/outputs defined)?,Management review process documented,Not yet documented,OFI,Create a simple management review template (later)
+CL-019,ISO 27001 Clause 10.1,Is nonconformity handling and corrective action process defined?,CAPA tracker and process,Not yet documented,OFI,Create AUD-006 CAPA tracker + procedure
+CL-020,Traceability test (sample),Select one risk and verify treatment controls exist in SoA and evidence exists if marked implemented,Trace links: Risk -> SoA -> Evidence,R-001 -> A.8.32 -> EV-002/EV-004,,
