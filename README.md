@@ -1,7 +1,7 @@
 # ISO/IEC 27001 ISMS / GRC Portfolio (Audit-Grade) — CloudFin SaaS Scenario
 
 This repository contains an **audit-grade ISO/IEC 27001 Information Security Management System (ISMS) portfolio** built for a fictional B2B SaaS company (“CloudFin Analytics”).  
-It is designed to demonstrate **US-market GRC / ISMS / Internal Audit capability** through **end-to-end traceability** and **verifiable evidence** (**EV-001 → EV-015**).
+It is designed to demonstrate **GRC / ISMS / Internal Audit capability** through **end-to-end traceability** and **verifiable evidence** (**EV-001 → EV-015**).
 
 ---
 
