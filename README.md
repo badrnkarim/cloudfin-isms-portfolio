@@ -17,7 +17,3 @@ This repository is an **audit-grade ISO/IEC 27001 ISMS portfolio** built for a f
 6) **03_Audit_Pack/AUD-008_Followup_Audit_Report_v0.1_2026-02-07.md**
 7) **02_Registers/ISMS-005_SoA_v0.1_2026-02-07.csv**
 
-## Validation (audit-grade checks)
-Run:
-```bash
-python3 healthcheck.py
