@@ -6,7 +6,7 @@
 **Version:** v0.1  
 **Status:** Draft  
 **Date:** 2026-02-07  
-**Planned Audit Date:** 2026-02-14  
+**Planned Audit Date:** 2026-02-07  
 
 ---
 

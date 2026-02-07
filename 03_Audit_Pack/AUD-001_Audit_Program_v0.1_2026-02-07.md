@@ -32,7 +32,7 @@ Internal audits cover the ISMS scope defined in ISMS-001, including:
 The ISMS will be audited at least quarterly. The schedule below is risk-based and may be adjusted after major changes or incidents.
 
 ### 4.1 Planned Audit Events
-- **Q1 Internal Audit:** 2026-02-14 (initial ISMS baseline audit)
+- **Q1 Internal Audit:** 2026-02-07 (initial ISMS baseline audit)
 - **Q2 Internal Audit:** 2026-05-15 (follow-up: verify CAPA closure + expansion of technical controls evidence)
 - **Q3 Internal Audit:** 2026-08-14 (supplier security + incident readiness focus)
 - **Q4 Internal Audit:** 2026-11-13 (full ISMS readiness review)

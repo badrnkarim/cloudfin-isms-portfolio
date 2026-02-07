@@ -16,7 +16,7 @@
 
 ## 2. Inputs Reviewed (Clause 9.3.2)
 - **Audit results:** Baseline internal audit findings reviewed (AUD-005). Key items: objectives, CAPA, management review, vulnerability procedure, access review record.
-- **Corrective actions:** CAPA tracker reviewed (AUD-006). CAPA-001 and CAPA-002 marked Implemented (pending verification).
+- **Corrective actions:** CAPA tracker reviewed (AUD-006). CAPA-001..CAPA-005 verified via AUD-008 and closed (EV-005..EV-009).
 - **Objectives performance:** Objectives established (ISMS-006). Initial status: baseline period, performance trending not yet measured.
 - **Risk & treatment status:** Risk Register and SoA reviewed (ISMS-004/ISMS-005). Key high risks: dependency vulnerabilities, cloud misconfiguration, backups.
 - **Changes/issues:** No significant business scope change since ISMS scope definition.

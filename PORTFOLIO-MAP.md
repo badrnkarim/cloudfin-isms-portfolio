@@ -11,7 +11,7 @@
   - ISMS-005 (SoA) — `02_Registers/ISMS-005_SoA...`  
   - ISMS-006 (Objectives) — `01_ISMS_Core/ISMS-006_Objectives...` + **EV-005**
 - **Clause 7.5 (Documented information):**  
-  - Repo structure + controlled docs — **EV-001**
+  - ISMS-008 Document Control Procedure + Document Register — **EV-010**
 - **Clause 9.2 (Internal audit):**  
   - AUD-001/002/003/004/005 — `03_Audit_Pack/`  
 - **Clause 9.3 (Management review):**  
